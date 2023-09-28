@@ -3,9 +3,9 @@
 
 Full Stack Developer
 <br>
-Telegram: @DesarrollaorTalentosa
+Telegram: @MarttiCheng
 <br>
-Discord: 0xfashion.eth#8763
+Discord: martticheng
 <br>
 <hr>
 <h5>
