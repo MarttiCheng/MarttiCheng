@@ -3,14 +3,11 @@
 ![spectra-program-management-side-1024x576](https://user-images.githubusercontent.com/115201845/211274405-10db223b-ecb0-4d38-ab43-e172f5ec6e1b.jpg)
 
 <p>
-I am a senior web developer, with over 14 years of professional experience in software engineering and web/mobile development. Experience includes programming application and presentation layers, building scalable server structures that improve working efficiency, and object-oriented programming. I developed front-ends and back-ends of the web app projects using primarily Python web frameworks such as Django. During these projects, I've established great experience about building a organized and yet flexible code structure. Also have rich knowledge and experience in Database and DevOps.<br>
+I am a creative software engineer with practical experience in website and mobile app front-end development. I love to work with diverse talents in agile work environments. Meaningful and consistent communication is one of my foundation blocks and in my opinion is the most important indicator of success in this field. And my strengths are creativity and persistence. I love failures, learning from failure and how to deal with failure next time. Thus being optimistic, never give up to realize the dream.<br>
 </p>
 
 <p>
-I've also engaged in many projects that used Ruby on Rails framework in order to increase productivity and reduce code maintenance. Using these frameworks gave me knowledge about modern web frameworks and software architecting principles. <br>
-Additionally, I have a strong understanding of DevOps and cloud solutions such as AWS, Azure and other cloud services to ensure scalability and performance; as well as expertise in CI/CD best practices. I have built and maintained several web applications from scratch with the help of these technologies.<br>
-I'm highly experienced in leading teams and taking ownership of projects. My ability to troubleshoot complex problems quickly makes me an invaluable asset to any team.<br><br>
-Now I'm looking forward to work for long-term clients, and hope we can achieve success!
+I love exceeding expectations and providing the highest value possible. Most times I am allotted freedom to implement new ideas- which ultimately prove to be effective. 
 </p>
 
 &nbsp;
